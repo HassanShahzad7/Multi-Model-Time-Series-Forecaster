@@ -6,3 +6,5 @@ torch
 sentence_transformers
 scikit-learn
 matplotlib
+holidays
+plotly
